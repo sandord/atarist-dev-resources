@@ -33,10 +33,12 @@ This section contains resources for cross-compiling Atari ST software from other
 - [VBCC](http://sun.hasenbraten.de/vbcc)
   - A highly optimizing portable and retargetable ISO C compiler.
 
-## Books
+## Books and references
 
 - [The Atari Compendium](https://info-coach.fr/atari/software/_development/Atari-Compendium.pdf)
   - Probably the most extensive technical reference ever published for the Atari ST and derivatives.
+- [The Documentation for TOS](https://freemint.github.io/tos.hyp/en/index.html)
+  - The famous `tos.hyp` pages. 
 
 ## Github repositories
 
