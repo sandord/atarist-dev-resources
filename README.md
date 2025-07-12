@@ -30,6 +30,8 @@ This section contains resources for cross-compiling Atari ST software from other
 
 - [Thorsten Otto's m68k-atari-mint cross-tools page](https://tho-otto.de/crossmint.php)
   - A page full of resources for cross-compiling for the Atari ST using GCC.
+- [VBCC](http://sun.hasenbraten.de/vbcc)
+  - A highly optimizing portable and retargetable ISO C compiler.
 
 ## Github repositories
 
