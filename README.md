@@ -8,6 +8,7 @@ A collection of resources for developing software for the Atari ST series of com
   - A forum dedicated to Atari ST development and discussions.
 - [Exxos Forum](https://www.exxosforum.co.uk/forum)
   - A forum focused on Atari ST hardware and software development.
+- [AtariAge Forums](https://forums.atariage.com)
 
 ## Blogs, wikis, and other resources
 
@@ -32,6 +33,8 @@ This section contains resources for cross-compiling Atari ST software from other
   - A page full of resources for cross-compiling for the Atari ST using GCC.
 - [VBCC](http://sun.hasenbraten.de/vbcc)
   - A highly optimizing portable and retargetable ISO C compiler.
+- [Platform Guide: Atari ST](https://bumbershootsoft.wordpress.com/platform-guide-atari-st)
+  - An VBCC/VASM oriented guide.
 
 ## Books and references
 
