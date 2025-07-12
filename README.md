@@ -9,7 +9,7 @@ A collection of resources for developing software for the Atari ST series of com
 - [Exxos Forum](https://www.exxosforum.co.uk/forum)
   - A forum focused on Atari ST hardware and software development.
 
-## Links to blogs, wikis, and other resources
+## Blogs, wikis, and other resources
 
 - [BUS ERROR Atari 16/32 Bit Development Info Page](https://bus-error.nokturnal.pl/Welcome%2Bto%2BAtari%2Bcoding%2Bwiki%2521)
   - Hase some very useful information about cross compilation and assembly.
@@ -32,6 +32,11 @@ This section contains resources for cross-compiling Atari ST software from other
   - A page full of resources for cross-compiling for the Atari ST using GCC.
 - [VBCC](http://sun.hasenbraten.de/vbcc)
   - A highly optimizing portable and retargetable ISO C compiler.
+
+## Books
+
+- [Atari Compendium] (https://info-coach.fr/atari/software/_development/Atari-Compendium.pdf)
+  - Probably the most extensive technical book ever published for the Atari ST and derivatives.
 
 ## Github repositories
 
