@@ -22,6 +22,7 @@ C is the primary programming language used for Atari ST development.
   - A very useful guide to writing Makefiles.
 - [Object Oriented Programming in C](https://www.state-machine.com/oop)
   - Explains how to implement object-oriented programming concepts in C.
+  - The references at the bottom of the page are also very useful.
 
 ## Cross compilation
 
