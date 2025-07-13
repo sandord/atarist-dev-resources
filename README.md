@@ -34,7 +34,7 @@ This section contains resources for cross-compiling Atari ST software from other
 - [VBCC](http://sun.hasenbraten.de/vbcc)
   - A highly optimizing portable and retargetable ISO C compiler.
 - [Platform Guide: Atari ST](https://bumbershootsoft.wordpress.com/platform-guide-atari-st)
-  - An VBCC/VASM oriented guide.
+  - A VBCC/VASM oriented guide.
 
 ## Books and references
 - Atari ST Platform
