@@ -37,11 +37,13 @@ This section contains resources for cross-compiling Atari ST software from other
   - An VBCC/VASM oriented guide.
 
 ## Books and references
-
-- [The Atari Compendium](https://info-coach.fr/atari/software/_development/Atari-Compendium.pdf)
-  - Probably the most extensive technical reference ever published for the Atari ST and derivatives.
-- [The Documentation for TOS](https://freemint.github.io/tos.hyp/en/index.html)
-  - The famous `tos.hyp` pages. 
+- Atari ST Platform
+  - [The Atari Compendium](https://info-coach.fr/atari/software/_development/Atari-Compendium.pdf)
+    - Probably the most extensive technical reference ever published for the Atari ST and derivatives.
+  - [The Documentation for TOS](https://freemint.github.io/tos.hyp/en/index.html)
+    - The famous `tos.hyp` pages.
+- Compilers
+  - [GCC online documentation](https://gcc.gnu.org/onlinedocs)
 
 ## Github repositories
 
