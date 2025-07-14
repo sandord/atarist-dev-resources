@@ -2,7 +2,7 @@
 
 A collection of resources for developing software for the Atari ST series of computers.
 
-## Community links
+## Community
 
 - [Atariforum](https://atari-forum.com)
   - A forum dedicated to Atari ST development and discussions.
@@ -14,6 +14,11 @@ A collection of resources for developing software for the Atari ST series of com
 
 - [BUS ERROR Atari 16/32 Bit Development Info Page](https://bus-error.nokturnal.pl/Welcome%2Bto%2BAtari%2Bcoding%2Bwiki%2521)
   - Has some very useful information about cross compilation and assembly.
+ 
+## General Atari ST websites
+
+- [DrCoolZic Atari ST Site](https://info-coach.fr/atari/index.php)
+  - Contains a lot of detailed information about the hardware and software side of the Atari ST.
 
 ## Emulators
 
