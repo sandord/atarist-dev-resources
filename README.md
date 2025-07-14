@@ -13,7 +13,7 @@ A collection of resources for developing software for the Atari ST series of com
 ## Blogs, wikis, and other resources
 
 - [BUS ERROR Atari 16/32 Bit Development Info Page](https://bus-error.nokturnal.pl/Welcome%2Bto%2BAtari%2Bcoding%2Bwiki%2521)
-  - Hase some very useful information about cross compilation and assembly.
+  - Has some very useful information about cross compilation and assembly.
 
 ## Emulators
 
