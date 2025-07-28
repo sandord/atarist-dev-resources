@@ -45,6 +45,8 @@ This section contains resources for cross-compiling Atari ST software from other
   - A highly optimizing portable and retargetable ISO C compiler.
 - [Platform Guide: Atari ST](https://bumbershootsoft.wordpress.com/platform-guide-atari-st)
   - A VBCC/VASM oriented guide.
+- [M68k LVVM documentation](https://m680x0.github.io/doc)
+  - Resources for users of M68k LLVM toolchain.
 
 ## Books and references
 - Atari ST Platform
