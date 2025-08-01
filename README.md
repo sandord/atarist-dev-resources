@@ -27,13 +27,17 @@ A collection of resources for developing software for the Atari ST series of com
 
 ## C Programming
 
-C is the primary programming language used for Atari ST development.
+C is the primary programming language used for professional Atari ST development.
 
 - [Makefile tutorial](https://makefiletutorial.com)
   - A very useful guide to writing Makefiles.
 - [Object Oriented Programming in C](https://www.state-machine.com/oop)
   - Explains how to implement object-oriented programming concepts in C.
   - The references at the bottom of the page are also very useful.
+
+## Assembly Programming
+
+- [M68000 Programmer's Reference Manual](https://www.nxp.com/docs/en/reference-manual/M68000PRM.pdf)
 
 ## Cross compilation
 
