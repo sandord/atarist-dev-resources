@@ -4,11 +4,16 @@ A collection of resources for developing software for the Atari ST series of com
 
 ## Community
 
+- [AtariAge](https://www.atariage.com)
+- [AtariCrypt](https://ataricrypt.blogspot.com)
 - [Atariforum](https://atari-forum.com)
   - A forum dedicated to Atari ST development and discussions.
+- [Atari Mania](https://www.atarimania.com)
+- [atariscne.org](https://atariscne.org)
 - [Exxos Forum](https://www.exxosforum.co.uk/forum)
   - A forum focused on Atari ST hardware and software development.
 - [AtariAge Forums](https://forums.atariage.com)
+- [D-Bug](http://d-bug.mooo.com)
 
 ## Blogs, wikis, and other resources
 
