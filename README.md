@@ -43,6 +43,7 @@ C is the primary programming language used for professional Atari ST development
 ## Assembly Programming
 
 - [M68000 Programmer's Reference Manual](https://www.nxp.com/docs/en/reference-manual/M68000PRM.pdf)
+- [Bugaboo debugger tips and tricks](http://beyondbrown.d-bug.me/post/bugaboo)
 
 ## Cross compilation
 
