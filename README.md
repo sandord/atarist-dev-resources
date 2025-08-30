@@ -29,8 +29,8 @@ A collection of resources for developing software for the Atari ST series of com
 ## Emulators
 
 - [Hatari](https://www.hatari-emu.org)
-  - [User manual](https://www.hatari-emu.org/doc/manual.html)
-  - [Debugger manual](https://www.hatari-emu.org/doc/debugger.html)
+  - [Hatari User manual](https://www.hatari-emu.org/doc/manual.html)
+  - [Hatari Debugger manual](https://www.hatari-emu.org/doc/debugger.html)
 - [STeem](https://sourceforge.net/projects/steemsse)
 
 ## C Programming
