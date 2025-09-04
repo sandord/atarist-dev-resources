@@ -1,6 +1,6 @@
-# Atari ST Development Resources
+# Atari 16/32 bit Development Resources
 
-A collection of resources for developing software for the Atari ST series of computers.
+A collection of resources for developing software for the 16/32 bit Atari series of computers.
 
 ## Community
 
