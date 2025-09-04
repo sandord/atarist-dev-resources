@@ -4,6 +4,8 @@ A collection of resources for developing software for the 16/32 bit Atari series
 
 ## Community
 
+### Websites
+
 - [AtariAge](https://www.atariage.com)
 - [AtariCrypt](https://ataricrypt.blogspot.com)
 - [Atariforum](https://atari-forum.com)
@@ -14,6 +16,14 @@ A collection of resources for developing software for the 16/32 bit Atari series
   - A forum focused on Atari ST hardware and software development.
 - [AtariAge Forums](https://forums.atariage.com)
 - [D-Bug](http://d-bug.mooo.com)
+
+### Discord Servers
+
+- [Atari FreeMiNT User Group](https://discord.gg/5yZC4NwCr9)
+- [Atari Scene/Demoscene](https://discord.gg/7Qn5qtsbrm)
+- [Atari ST 16/32bit](https://discord.gg/qwEeYQc5jt)
+- [GFABASIC](https://discord.gg/AYEwQY3JcA)
+- [SidecarTridge](https://discord.com/invite/u73QP9MEYC)
 
 ## Blogs, wikis, and other resources
 
