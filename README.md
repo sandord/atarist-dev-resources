@@ -29,7 +29,7 @@ A collection of resources for developing software for the 16/32 bit Atari series
 
 - [Beyond Brown](http://beyondbrown.d-bug.me)
 - [BUS ERROR Atari 16/32 Bit Development Info Page](https://bus-error.nokturnal.pl/Welcome%2Bto%2BAtari%2Bcoding%2Bwiki%2521)
-  - Has some very useful information about cross compilation and assembly.
+  - Has some very useful information about cross compilation and assembly, hardware reference materials and tools.
 - [DrCoolZic Atari ST Site](https://info-coach.fr/atari/index.php)
   - Contains a lot of detailed information about the hardware and software side of the Atari ST.
 
