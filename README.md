@@ -17,6 +17,20 @@ A collection of resources for developing software for the 16/32 bit Atari series
 - [Exxos Forum](https://www.exxosforum.co.uk/forum)
   - A forum focused on Atari ST hardware and software development.
 
+## Books and references
+- Atari ST Platform
+  - [Atari Document Archive](https://docs.dev-docs.org)
+  - [The Atari Compendium](https://info-coach.fr/atari/software/_development/Atari-Compendium.pdf)
+    - Probably the most extensive technical reference ever published for the Atari ST and derivatives.
+  - [The Atari Wiki](https://www.atari-wiki.com)
+  - [The Documentation for TOS](https://freemint.github.io/tos.hyp/en/index.html)
+    - The famous `tos.hyp` pages.
+- Compilers
+  - [GCC online documentation](https://gcc.gnu.org/onlinedocs)
+- Hardware intrinsics
+  - [ST/STE Scanlines](https://www.atari-wiki.com/?title=ST_STE_Scanlines)
+    - This page provides pseudocode descriptions of various processes involved in the generation of each frame of the video output, in both the Atari ST and the STE.
+
 ### Discord Servers
 
 - [Atari FreeMiNT User Group](https://discord.gg/5yZC4NwCr9)
@@ -69,20 +83,6 @@ This section contains resources for cross-compiling Atari ST software from other
   - A page full of resources for cross-compiling for the Atari ST using GCC.
 - [VBCC](http://sun.hasenbraten.de/vbcc)
   - A highly optimizing portable and retargetable ISO C compiler.
-
-## Books and references
-- Atari ST Platform
-  - [Atari Document Archive](https://docs.dev-docs.org)
-  - [The Atari Compendium](https://info-coach.fr/atari/software/_development/Atari-Compendium.pdf)
-    - Probably the most extensive technical reference ever published for the Atari ST and derivatives.
-  - [The Atari Wiki](https://www.atari-wiki.com)
-  - [The Documentation for TOS](https://freemint.github.io/tos.hyp/en/index.html)
-    - The famous `tos.hyp` pages.
-- Compilers
-  - [GCC online documentation](https://gcc.gnu.org/onlinedocs)
-- Hardware intrinsics
-  - [ST/STE Scanlines](https://www.atari-wiki.com/?title=ST_STE_Scanlines)
-    - This page provides pseudocode descriptions of various processes involved in the generation of each frame of the video output, in both the Atari ST and the STE.
 
 ## Github repositories
 
