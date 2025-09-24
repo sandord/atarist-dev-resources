@@ -2,9 +2,7 @@
 
 A collection of resources for developing software for the 16/32 bit Atari series of computers.
 
-## Community
-
-### Websites
+## Community Websites
 
 - [AtariAge](https://www.atariage.com)
 - [AtariCrypt](https://ataricrypt.blogspot.com)
@@ -31,14 +29,6 @@ A collection of resources for developing software for the 16/32 bit Atari series
   - [ST/STE Scanlines](https://www.atari-wiki.com/?title=ST_STE_Scanlines)
     - This page provides pseudocode descriptions of various processes involved in the generation of each frame of the video output, in both the Atari ST and the STE.
 
-### Discord Servers
-
-- [Atari FreeMiNT User Group](https://discord.gg/5yZC4NwCr9)
-- [Atari Scene/Demoscene](https://discord.gg/7Qn5qtsbrm)
-- [Atari ST 16/32bit](https://discord.gg/qwEeYQc5jt)
-- [GFABASIC](https://discord.gg/AYEwQY3JcA)
-- [SidecarTridge](https://discord.com/invite/u73QP9MEYC)
-
 ## Blogs, wikis, and other resources
 
 - [Beyond Brown](http://beyondbrown.d-bug.me)
@@ -46,6 +36,14 @@ A collection of resources for developing software for the 16/32 bit Atari series
   - Has some very useful information about cross compilation and assembly, hardware reference materials and tools.
 - [DrCoolZic Atari ST Site](https://info-coach.fr/atari/index.php)
   - Contains a lot of detailed information about the hardware and software side of the Atari ST.
+
+## Discord Servers
+
+- [Atari FreeMiNT User Group](https://discord.gg/5yZC4NwCr9)
+- [Atari Scene/Demoscene](https://discord.gg/7Qn5qtsbrm)
+- [Atari ST 16/32bit](https://discord.gg/qwEeYQc5jt)
+- [GFABASIC](https://discord.gg/AYEwQY3JcA)
+- [SidecarTridge](https://discord.com/invite/u73QP9MEYC)
 
 ## Emulators
 
@@ -69,7 +67,8 @@ C is the primary programming language used for professional Atari ST development
 - [Bugaboo usage](http://beyondbrown.d-bug.me/post/bugaboo)
   - Some very interesting and useful Bugaboo debugger tips and tricks.
 - [Cycle counting in the Atari ST](https://pasti.fxatari.com/68kdocs/AtariSTCycleCounting.html)
-- [M68000 Programmer's Reference Manual](https://www.nxp.com/docs/en/reference-manual/M68000PRM.pdf)
+- [M68000 Programmer's Reference Manual](https://www.nxp.com/docs/en/ref
+- erence-manual/M68000PRM.pdf)
 
 ## Cross compilation
 
