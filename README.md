@@ -67,8 +67,7 @@ C is the primary programming language used for professional Atari ST development
 - [Bugaboo usage](http://beyondbrown.d-bug.me/post/bugaboo)
   - Some very interesting and useful Bugaboo debugger tips and tricks.
 - [Cycle counting in the Atari ST](https://pasti.fxatari.com/68kdocs/AtariSTCycleCounting.html)
-- [M68000 Programmer's Reference Manual](https://www.nxp.com/docs/en/ref
-- erence-manual/M68000PRM.pdf)
+- [M68000 Programmer's Reference Manual](https://www.nxp.com/docs/en/reference-manual/M68000PRM.pdf)
 
 ## Cross compilation
 
@@ -93,6 +92,8 @@ This section contains resources for cross-compiling Atari ST software from other
   - Handy tool to see live compiler output asembly. Supports M68K GCC compilers and M68K assembly.
 - [Amiga & Atari Bitmap Converter](https://github.com/arnaud-carre/abc)
   - A command line tool to convert bitmap images into ready to use binary data.
+- [CycleSpitter](https://github.com/slippyex/cycleSpitter)
+  - A cycle-accurate scanline splitter tool for Atari ST fullscreen (sync) programming.
 
 ## Game Development Libraries
 - [Atari Game Tools](https://bitbucket.org/d_m_l/agtools)
