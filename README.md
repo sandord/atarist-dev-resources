@@ -43,7 +43,6 @@ A collection of resources for developing software for the 16/32 bit Atari series
 - [Atari Scene/Demoscene](https://discord.gg/7Qn5qtsbrm)
 - [Atari ST 16/32bit](https://discord.gg/qwEeYQc5jt)
 - [GFABASIC](https://discord.gg/AYEwQY3JcA)
-- [SidecarTridge](https://discord.com/invite/u73QP9MEYC)
 
 ## Emulators
 
