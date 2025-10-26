@@ -51,6 +51,12 @@ A collection of resources for developing software for the 16/32 bit Atari series
   - [Hatari Debugger manual](https://www.hatari-emu.org/doc/debugger.html)
 - [STeem](https://sourceforge.net/projects/steemsse)
 
+## GFA Basic Programming
+
+GFA Basic is easily the most popular programming language for the Atari ST.
+
+- [GFA Basic Manual (ST Format Edition](https://info-coach.fr/atari/documents/general/gfabasic.pdf)
+
 ## C Programming
 
 C is the primary programming language used for professional Atari ST development.
