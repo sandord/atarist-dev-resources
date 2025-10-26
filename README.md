@@ -55,7 +55,7 @@ A collection of resources for developing software for the 16/32 bit Atari series
 
 GFA Basic is easily the most popular programming language for the Atari ST.
 
-- [GFA Basic Manual (ST Format Edition](https://info-coach.fr/atari/documents/general/gfabasic.pdf)
+- [GFA Basic Manual (ST Format Edition) ](https://info-coach.fr/atari/documents/general/gfabasic.pdf)
 
 ## C Programming
 
