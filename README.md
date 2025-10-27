@@ -69,6 +69,7 @@ C is the primary programming language used for professional Atari ST development
 
 ## Assembly Programming
 
+- [Devpac 3 Manual](https://info-coach.fr/atari/software/_development/Devpac_v3_Manual_txt.pdf)
 - [Bugaboo usage](http://beyondbrown.d-bug.me/post/bugaboo)
   - Some very interesting and useful Bugaboo debugger tips and tricks.
 - [Cycle counting in the Atari ST](https://pasti.fxatari.com/68kdocs/AtariSTCycleCounting.html)
