@@ -66,6 +66,7 @@ C is the primary programming language used for professional Atari ST development
 - [Object Oriented Programming in C](https://www.state-machine.com/oop)
   - Explains how to implement object-oriented programming concepts in C.
   - The references at the bottom of the page are also very useful.
+- [GCC Docs](https://gcc.gnu.org/onlinedocs)
 
 ## Assembly Programming
 
