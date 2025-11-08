@@ -66,7 +66,6 @@ C is the primary programming language used for professional Atari ST development
 - [Object Oriented Programming in C](https://www.state-machine.com/oop)
   - Explains how to implement object-oriented programming concepts in C.
   - The references at the bottom of the page are also very useful.
-- [GCC Docs](https://gcc.gnu.org/onlinedocs)
 
 ## Assembly Programming
 
@@ -88,6 +87,7 @@ This section contains resources for cross-compiling Atari ST software from other
   - A page full of resources for cross-compiling for the Atari ST using GCC.
 - [VBCC](http://sun.hasenbraten.de/vbcc)
   - A highly optimizing portable and retargetable ISO C compiler.
+- [GCC Docs](https://gcc.gnu.org/onlinedocs)
 
 ## Github repositories
 
