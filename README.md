@@ -23,8 +23,6 @@ A collection of resources for developing software for the 16/32 bit Atari series
   - [The Atari Wiki](https://www.atari-wiki.com)
   - [The Documentation for TOS](https://freemint.github.io/tos.hyp/en/index.html)
     - The famous `tos.hyp` pages.
-- Compilers
-  - [GCC online documentation](https://gcc.gnu.org/onlinedocs)
 - Hardware intrinsics
   - [ST/STE Scanlines](https://www.atari-wiki.com/?title=ST_STE_Scanlines)
     - This page provides pseudocode descriptions of various processes involved in the generation of each frame of the video output, in both the Atari ST and the STE.
