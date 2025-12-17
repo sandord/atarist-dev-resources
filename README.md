@@ -127,6 +127,8 @@ This section contains resources for cross-compiling Atari ST software from other
 
 ## Hardware tools
 
+- [SidecarTridge](https://sidecartridge.com)
+  - Various devices that make working with legacy hardware in modern times more pleasant.
 - [Lightning ST](https://wiki.newtosworld.de/index.php?title=Lightning_ST)
   - The Lightning ST is a pcb with two USB 1.1 compatible ports, an IDE interface and an adressdecoder for TOS2.06.
 
