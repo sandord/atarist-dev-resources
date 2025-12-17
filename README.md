@@ -102,6 +102,7 @@ This section contains resources for cross-compiling Atari ST software from other
 - [Concise Atari ST 68000 Programmer's Reference Guide: Atari ST hardware](https://www.bighole.nl/pub/mirror/homepage.ntlworld.com/kryten_droid/Atari/ST/spg/st_prog_guide_1.htm)
 - [ST/STE Scanlines](https://www.atari-wiki.com/?title=ST_STE_Scanlines)
   - This page provides pseudocode descriptions of various processes involved in the generation of each frame of the video output, in both the Atari ST and the STE.
+- [hardware-register-listing](https://beyondbrown.mooo.com/post/hardware-register-listing-8.9)
 
 ## Programming Libraries
 
