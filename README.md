@@ -35,6 +35,7 @@ A collection of resources for developing software for the 16/32 bit Atari series
 - [DrCoolZic Atari ST Site](https://info-coach.fr/atari/index.php)
   - Contains a lot of detailed information about the hardware and software side of the Atari ST.
 - [Overscan Techniques](https://alive.atari.org/alive9/ovrscn1.php)
+- [MiKRO's homepage](https://mikro.naprvyraz.sk)
 
 ## Discord Servers
 
