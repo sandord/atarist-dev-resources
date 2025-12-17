@@ -27,13 +27,14 @@ A collection of resources for developing software for the 16/32 bit Atari series
   - [ST/STE Scanlines](https://www.atari-wiki.com/?title=ST_STE_Scanlines)
     - This page provides pseudocode descriptions of various processes involved in the generation of each frame of the video output, in both the Atari ST and the STE.
 
-## Blogs, wikis, and other resources
+## Blogs, wikis, articles and other resources
 
 - [Beyond Brown](http://beyondbrown.d-bug.me)
 - [BUS ERROR Atari 16/32 Bit Development Info Page](https://bus-error.nokturnal.pl/Welcome%2Bto%2BAtari%2Bcoding%2Bwiki%2521)
   - Has some very useful information about cross compilation and assembly, hardware reference materials and tools.
 - [DrCoolZic Atari ST Site](https://info-coach.fr/atari/index.php)
   - Contains a lot of detailed information about the hardware and software side of the Atari ST.
+- [Overscan Techniques](https://alive.atari.org/alive9/ovrscn1.php)
 
 ## Discord Servers
 
