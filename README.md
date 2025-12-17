@@ -23,9 +23,8 @@ A collection of resources for developing software for the 16/32 bit Atari series
   - [The Atari Wiki](https://www.atari-wiki.com)
   - [The Documentation for TOS](https://freemint.github.io/tos.hyp/en/index.html)
     - The famous `tos.hyp` pages.
-- Hardware intrinsics
-  - [ST/STE Scanlines](https://www.atari-wiki.com/?title=ST_STE_Scanlines)
-    - This page provides pseudocode descriptions of various processes involved in the generation of each frame of the video output, in both the Atari ST and the STE.
+
+- [Atari Document Archive](https://docs.dev-docs.org)
 
 ## Blogs, wikis, articles and other resources
 
@@ -101,6 +100,8 @@ This section contains resources for cross-compiling Atari ST software from other
 ## Hardware
 
 - [Concise Atari ST 68000 Programmer's Reference Guide: Atari ST hardware](https://www.bighole.nl/pub/mirror/homepage.ntlworld.com/kryten_droid/Atari/ST/spg/st_prog_guide_1.htm)
+- [ST/STE Scanlines](https://www.atari-wiki.com/?title=ST_STE_Scanlines)
+  - This page provides pseudocode descriptions of various processes involved in the generation of each frame of the video output, in both the Atari ST and the STE.
 
 ## Programming Libraries
 
