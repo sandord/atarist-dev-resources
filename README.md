@@ -98,7 +98,7 @@ This section contains resources for cross-compiling Atari ST software from other
 - [GCC online documentation](https://gcc.gnu.org/onlinedocs)
 - [GNU Binutils User Guide](sourceware.org/binutils/docs/as/index.html)
 
-## Hardware
+## Hardware intrinsics
 
 - [Concise Atari ST 68000 Programmer's Reference Guide: Atari ST hardware](https://www.bighole.nl/pub/mirror/homepage.ntlworld.com/kryten_droid/Atari/ST/spg/st_prog_guide_1.htm)
 - [ST/STE Scanlines](https://www.atari-wiki.com/?title=ST_STE_Scanlines)
@@ -124,6 +124,11 @@ This section contains resources for cross-compiling Atari ST software from other
 
 ## Game Development Articles
 - [Turrican II](https://codetapper.com/atari-st/st-games/st-turrican-2) 
+
+## Hardware tools
+
+- [Lightning ST](https://wiki.newtosworld.de/index.php?title=Lightning_ST)
+  - The Lightning ST is a pcb with two USB 1.1 compatible ports, an IDE interface and an adressdecoder for TOS2.06.
 
 ## Other link aggregation sources
 
