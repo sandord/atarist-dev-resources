@@ -66,10 +66,10 @@ C is the primary programming language used for professional Atari ST development
 - [Object Oriented Programming in C](https://www.state-machine.com/oop)
   - Explains how to implement object-oriented programming concepts in C.
   - The references at the bottom of the page are also very useful.
-- [GNU Binutils User Guide](sourceware.org/binutils/docs/as/index.html)
 
 ## Assembly Programming
 
+- [68000 assembly tutorials for Atari ST by perihelion of poSTmortem](https://github.com/nguillaumin/perihelion-m68k-tutorials)
 - [RMAC](https://rmac.is-slick.com)
   - A great, modern assembler for 68k based on the old Madmac assembler by Atari.
 - [Devpac 3 Manual](https://info-coach.fr/atari/software/_development/Devpac_v3_Manual_txt.pdf)
@@ -92,13 +92,14 @@ This section contains resources for cross-compiling Atari ST software from other
   - A page full of resources for cross-compiling for the Atari ST using GCC.
 - [VBCC](http://sun.hasenbraten.de/vbcc)
   - A highly optimizing portable and retargetable ISO C compiler.
-- [GCC Docs](https://gcc.gnu.org/onlinedocs)
+- [GCC online documentation](https://gcc.gnu.org/onlinedocs)
+- [GNU Binutils User Guide](sourceware.org/binutils/docs/as/index.html)
 
 ## Hardware
 
 - [Concise Atari ST 68000 Programmer's Reference Guide: Atari ST hardware](https://www.bighole.nl/pub/mirror/homepage.ntlworld.com/kryten_droid/Atari/ST/spg/st_prog_guide_1.htm)
 
-## Github repositories
+## Programming Libraries
 
 - [ReservoirGods/GODLIB](https://github.com/ReservoirGods/GODLIB)
   - An extensive C library by Resevoir Gods that provides many features that can be useful for game development.
