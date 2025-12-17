@@ -93,6 +93,10 @@ This section contains resources for cross-compiling Atari ST software from other
   - A highly optimizing portable and retargetable ISO C compiler.
 - [GCC Docs](https://gcc.gnu.org/onlinedocs)
 
+## Hardware
+
+- [Concise Atari ST 68000 Programmer's Reference Guide: Atari ST hardware](https://www.bighole.nl/pub/mirror/homepage.ntlworld.com/kryten_droid/Atari/ST/spg/st_prog_guide_1.htm)
+
 ## Github repositories
 
 - [ReservoirGods/GODLIB](https://github.com/ReservoirGods/GODLIB)
