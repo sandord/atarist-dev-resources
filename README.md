@@ -45,12 +45,14 @@ A collection of resources for developing software for the 16/32 bit Atari series
 - [GFABASIC](https://discord.gg/AYEwQY3JcA)
 - [SidecarTridge](https://discord.com/invite/u73QP9MEYC)
 
-## Emulators
+## Emulators/Virtual machines
 
 - [Hatari](https://www.hatari-emu.org)
   - [Hatari User manual](https://www.hatari-emu.org/doc/manual.html)
   - [Hatari Debugger manual](https://www.hatari-emu.org/doc/debugger.html)
 - [STeem](https://sourceforge.net/projects/steemsse)
+- [ARAnyM](https://aranym.github.io)
+  - ARAnyM is a software virtual machine designed and developed for running 32-bit Atari ST/TT/Falcon operating systems.
 
 ## GFA Basic Programming
 
