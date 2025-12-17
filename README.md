@@ -81,6 +81,7 @@ C is the primary programming language used for professional Atari ST development
 - [Cycle Times](https://mrjester.hapisan.com/04_MC68/CycleTimes.htm)
   - A handy click-through table to find CPU cycle times.
 - [Cycle counting in the Atari ST](https://pasti.fxatari.com/68kdocs/AtariSTCycleCounting.html)
+- [Yet Another Cycle Hunting Table](https://gist.githubusercontent.com/cbmeeks/e759c7061d61ec4ac354a7df44a4a8f1/raw/c8f250348f24fdf53a1b5e71b7734ecefef9b3d2/Yacht.txt)
 
 ## Cross compilation
 
