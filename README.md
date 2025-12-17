@@ -118,3 +118,7 @@ This section contains resources for cross-compiling Atari ST software from other
 
 ## Game Development Articles
 - [Turrican II](https://codetapper.com/atari-st/st-games/st-turrican-2) 
+
+## Other link aggregation sources
+
+- [Atari ST Documentation (atari-st.lovely.net)](https://web.archive.org/web/20010428163155/http://www.atari-st.lovely.net/atari-st-docs)
