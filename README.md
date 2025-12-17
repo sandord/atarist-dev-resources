@@ -122,8 +122,9 @@ This section contains resources for cross-compiling Atari ST software from other
 ## Game Development Libraries
 - [Atari Game Tools](https://bitbucket.org/d_m_l/agtools)
 
-## Game Development Articles
-- [Turrican II](https://codetapper.com/atari-st/st-games/st-turrican-2) 
+## Technical background information for specific games
+- [Turrican II](https://codetapper.com/atari-st/st-games/st-turrican-2)
+- [Anarchy](https://codetapper.com/atari-st/st-games/st-anarchy)
 
 ## Hardware tools
 
