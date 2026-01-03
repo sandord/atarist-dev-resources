@@ -91,12 +91,11 @@ C is the primary programming language used for professional Atari ST development
 
 This section contains resources for cross-compiling Atari ST software from other platforms. Developing on the Atari ST itself is often limited by its hardware capabilities and with cross-compilation, you can leverage more powerful development environments.
 
-- [M68k LVVM documentation](https://m680x0.github.io/doc)
-  - Resources for users of M68k LLVM toolchain.
-- [Platform Guide: Atari ST](https://bumbershootsoft.wordpress.com/platform-guide-atari-st)
-  - A VBCC/VASM oriented guide.
 - [Thorsten Otto's m68k-atari-mint cross-tools page](https://tho-otto.de/crossmint.php)
   - A page full of resources for cross-compiling for the Atari ST using GCC.
+- [Vincent Rivière's m68k-atari-mint cross-tools](http://vincent.riviere.free.fr/soft/m68k-atari-mint)
+- [M68k LVVM documentation](https://m680x0.github.io/doc)
+  - Resources for users of M68k LLVM toolchain.
 - [VBCC](http://sun.hasenbraten.de/vbcc)
   - A highly optimizing portable and retargetable ISO C compiler.
 - [GCC online documentation](https://gcc.gnu.org/onlinedocs)
