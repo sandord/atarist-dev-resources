@@ -77,7 +77,9 @@ C is the primary programming language used for professional Atari ST development
 - [Devpac 3 Manual](https://info-coach.fr/atari/software/_development/Devpac_v3_Manual_txt.pdf)
 - [Bugaboo usage](http://beyondbrown.d-bug.me/post/bugaboo)
   - Some very interesting and useful Bugaboo debugger tips and tricks.
-- [M68000 Programmer's Reference Manual](https://www.nxp.com/docs/en/reference-manual/M68000PRM.pdf)
+- M68000 Programmer's Reference Manual
+  - [Original Motorola Version](https://m680x0.github.io/ref/M68000PM_AD_Rev_1_Programmers_Reference_Manual_1992.pdf)
+  - [NPX version](https://www.nxp.com/docs/en/reference-manual/M68000PRM.pdf)
 - [Cycle Times](https://mrjester.hapisan.com/04_MC68/CycleTimes.htm)
   - A handy click-through table to find CPU cycle times.
 - [Cycle counting in the Atari ST](https://pasti.fxatari.com/68kdocs/AtariSTCycleCounting.html)
