@@ -128,6 +128,7 @@ This section contains resources for cross-compiling Atari ST software from other
 ## Technical background information for specific games
 - [Turrican II](https://codetapper.com/atari-st/st-games/st-turrican-2)
 - [Anarchy](https://codetapper.com/atari-st/st-games/st-anarchy)
+- [Encounter](https://blog.defence-force.org/index.php?page=articles&ref=ART88)
 
 ## Hardware tools
 
