@@ -146,6 +146,7 @@ This section contains resources for cross-compiling Atari ST software from other
 - [zeST](https://zest.sector1.fr)
 - [MiSTer](https://mister-devel.github.io/MkDocs_MiSTer)
 - [Suska](http://experiment-s.de/en)
+- [Atari STE MiSTery core for the Tang Nano FPGAs](https://github.com/MiSTle-Dev/MiSTeryNano)
 
 ## OS ROMs
 
