@@ -141,6 +141,12 @@ This section contains resources for cross-compiling Atari ST software from other
 - [Lightning ST](https://wiki.newtosworld.de/index.php?title=Lightning_ST)
   - The Lightning ST is a pcb with two USB 1.1 compatible ports, an IDE interface and an adressdecoder for TOS2.06.
 
+## FPGA related
+
+- [zeST](https://zest.sector1.fr)
+- [MiSTer](https://mister-devel.github.io/MkDocs_MiSTer)
+- [Suska](http://experiment-s.de/en)
+
 ## OS ROMs
 
 - [EmuTOS](https://emutos.sourceforge.io)
