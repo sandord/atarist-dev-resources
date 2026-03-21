@@ -138,8 +138,10 @@ This section contains resources for cross-compiling Atari ST software from other
 - [Lightning ST](https://wiki.newtosworld.de/index.php?title=Lightning_ST)
   - The Lightning ST is a pcb with two USB 1.1 compatible ports, an IDE interface and an adressdecoder for TOS2.06.
 
-## ROM resources 
+## OS ROMs
 
+- [EmuTOS](https://emutos.sourceforge.io)
+  - EmuTOS is a free OS similar to TOS, which powered the Atari ST and its successors between 1985 and 1994.
 - [TOS Images Collection](https://avtandil33.pythonanywhere.com/tose) 
 
 ## Other link aggregation sources
