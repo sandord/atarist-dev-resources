@@ -75,6 +75,7 @@ C is the primary programming language used for professional Atari ST development
 - [68000 assembly tutorials for Atari ST by perihelion of poSTmortem](https://github.com/nguillaumin/perihelion-m68k-tutorials)
 - [RMAC](https://rmac.is-slick.com)
   - A great, modern assembler for 68k based on the old Madmac assembler by Atari.
+- [VASM](http://sun.hasenbraten.de/vasm)
 - [Devpac 3 Manual](https://info-coach.fr/atari/software/_development/Devpac_v3_Manual_txt.pdf)
 - [Bugaboo usage](http://beyondbrown.d-bug.me/post/bugaboo)
   - Some very interesting and useful Bugaboo debugger tips and tricks.
