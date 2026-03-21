@@ -109,6 +109,7 @@ This section contains resources for cross-compiling Atari ST software from other
 - [ST/STE Scanlines](https://www.atari-wiki.com/?title=ST_STE_Scanlines)
   - This page provides pseudocode descriptions of various processes involved in the generation of each frame of the video output, in both the Atari ST and the STE.
 - [hardware-register-listing](https://beyondbrown.mooo.com/post/hardware-register-listing-8.9)
+- [Recovering Atari ST ASIC designs](https://www.chzsoft.de/asic-web)
 
 ## Programming Libraries
 
