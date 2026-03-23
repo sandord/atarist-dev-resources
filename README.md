@@ -118,12 +118,6 @@ This section contains resources for cross-compiling Atari ST software from other
 - [hardware-register-listing](https://beyondbrown.mooo.com/post/hardware-register-listing-8.9)
 - [Recovering Atari ST ASIC designs](https://www.chzsoft.de/asic-web)
 
-## Programming Libraries
-
-- [ReservoirGods/GODLIB](https://github.com/ReservoirGods/GODLIB)
-  - An extensive C library by Resevoir Gods that provides many features that can be useful for game development.
-- [Agtools - Game prototyping system for Atari ST/e](https://bitbucket.org/d_m_l/agtools/src/master)
-
 ## Tools
 - [Compiler Explorer](https://godbolt.org)
   - Handy tool to see live compiler output asembly. Supports M68K GCC compilers and M68K assembly.
@@ -134,7 +128,9 @@ This section contains resources for cross-compiling Atari ST software from other
   - A cycle-accurate scanline splitter tool for Atari ST fullscreen (sync) programming.
 
 ## Game Development Libraries and tools
-- [Atari Game Tools](https://bitbucket.org/d_m_l/agtools)
+- [Agtools - Game prototyping system for Atari ST/e](https://bitbucket.org/d_m_l/agtools/src/master)
+- [ReservoirGods/GODLIB](https://github.com/ReservoirGods/GODLIB)
+  - An extensive C library by Resevoir Gods that provides many features that can be useful for game development.
 - [MapEdit](https://ptonthat.fr/mapedit)
   - Map editor dedicated dedicated for games development (2/16/256 colors or true colors).
 - [PS2M](https://ptonthat.fr/p2sm)
