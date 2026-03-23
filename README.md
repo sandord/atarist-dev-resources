@@ -133,8 +133,12 @@ This section contains resources for cross-compiling Atari ST software from other
 - [CycleSpitter](https://github.com/slippyex/cycleSpitter)
   - A cycle-accurate scanline splitter tool for Atari ST fullscreen (sync) programming.
 
-## Game Development Libraries
+## Game Development Libraries and tools
 - [Atari Game Tools](https://bitbucket.org/d_m_l/agtools)
+- [MapEdit](https://ptonthat.fr/mapedit)
+  - Map editor dedicated dedicated for games development (2/16/256 colors or true colors).
+- [PS2M](https://ptonthat.fr/p2sm)
+  - Means « Pixels to Sprites & Masks »: image tool dedicated for games development (2/4/16/256 colors sprites). 
 
 ## Technical background information for specific games
 - [Turrican II](https://codetapper.com/atari-st/st-games/st-turrican-2)
