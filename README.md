@@ -89,7 +89,7 @@ C is the primary programming language used for professional Atari ST development
 - [Cycle counting in the Atari ST](https://pasti.fxatari.com/68kdocs/AtariSTCycleCounting.html)
 - [Yet Another Cycle Hunting Table](https://github.com/danorf69/YACHT/blob/main/Yacht.txt)
 
-## Cross compilation
+## C cross compilation
 
 This section contains resources for cross-compiling Atari ST software from other platforms. Developing on the Atari ST itself is often limited by its hardware capabilities and with cross-compilation, you can leverage more powerful development environments.
 
@@ -102,6 +102,11 @@ This section contains resources for cross-compiling Atari ST software from other
   - A highly optimizing portable and retargetable ISO C compiler.
 - [GCC online documentation](https://gcc.gnu.org/onlinedocs)
 - [GNU Binutils User Guide](sourceware.org/binutils/docs/as/index.html)
+
+## Cross development
+
+- [autohatari](https://github.com/Gunstick/autohatari)
+  - A fast turnaround development tool for hatari/linux and VASM.
 
 ## Hardware intrinsics
 
