@@ -17,18 +17,16 @@ A collection of resources for developing software for the 16/32 bit Atari series
 
 ## Books and references
 
-- Atari ST Platform
-  - [Atari Document Archive](https://docs.dev-docs.org)
-  - [The Atari Compendium](https://info-coach.fr/atari/software/_development/Atari-Compendium.pdf)
-    - Probably the most extensive technical reference ever published for the Atari ST and derivatives.
-  - [The Atari Wiki](https://www.atari-wiki.com)
-  - [The Documentation for TOS](https://freemint.github.io/tos.hyp/en/index.html)
-    - The famous `tos.hyp` pages.
-  - [BIOS/XBIOS ROM listing](https://sarnau.info/atari-st-book-bios-xbios-rom-listing)
-    - Atari ST ROM fully commented BIOS/XBIOS ROM listing.
-  - [Free eBooks](http://ebook.pixas.de/index.php?frontpage)
-    - Written in French, German, English, or Dutch.
-
+- [Atari Document Archive](https://docs.dev-docs.org)
+- [The Atari Compendium](https://info-coach.fr/atari/software/_development/Atari-Compendium.pdf)
+  - Probably the most extensive technical reference ever published for the Atari ST and derivatives.
+- [The Atari Wiki](https://www.atari-wiki.com)
+- [The Documentation for TOS](https://freemint.github.io/tos.hyp/en/index.html)
+  - The famous `tos.hyp` pages.
+- [BIOS/XBIOS ROM listing](https://sarnau.info/atari-st-book-bios-xbios-rom-listing)
+  - Atari ST ROM fully commented BIOS/XBIOS ROM listing.
+- [Free eBooks](http://ebook.pixas.de/index.php?frontpage)
+  - Written in French, German, English, or Dutch.
 - [Atari Document Archive](https://docs.dev-docs.org)
 
 ## Blogs, wikis, articles and other resources
