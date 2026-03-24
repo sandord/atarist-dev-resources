@@ -16,6 +16,7 @@ A collection of resources for developing software for the 16/32 bit Atari series
   - A forum focused on Atari ST hardware and software development.
 
 ## Books and references
+
 - Atari ST Platform
   - [Atari Document Archive](https://docs.dev-docs.org)
   - [The Atari Compendium](https://info-coach.fr/atari/software/_development/Atari-Compendium.pdf)
@@ -23,6 +24,10 @@ A collection of resources for developing software for the 16/32 bit Atari series
   - [The Atari Wiki](https://www.atari-wiki.com)
   - [The Documentation for TOS](https://freemint.github.io/tos.hyp/en/index.html)
     - The famous `tos.hyp` pages.
+  - [BIOS/XBIOS ROM listing](https://sarnau.info/atari-st-book-bios-xbios-rom-listing)
+    - Atari ST ROM fully commented BIOS/XBIOS ROM listing.
+  - [Free eBooks](http://ebook.pixas.de/index.php?frontpage)
+    - Written in French, German, English, or Dutch.
 
 - [Atari Document Archive](https://docs.dev-docs.org)
 
@@ -86,10 +91,14 @@ C is the primary programming language used for professional Atari ST development
     - [Integer instructions](https://m680x0.github.io/ref/integer-instructions.html)
     - [Supervisor instructions](https://m680x0.github.io/ref/supervisor-instructions.html)
   - [NPX version (PDF)](https://www.nxp.com/docs/en/reference-manual/M68000PRM.pdf)
+
+## Assembly-level code optimization
+
 - [Cycle Times](https://mrjester.hapisan.com/04_MC68/CycleTimes.htm)
   - A handy click-through table to find CPU cycle times.
 - [Cycle counting in the Atari ST](https://pasti.fxatari.com/68kdocs/AtariSTCycleCounting.html)
 - [Yet Another Cycle Hunting Table](https://github.com/danorf69/YACHT/blob/main/Yacht.txt)
+- [Optimizing 68000 code](https://st-news.com/issues/st-news-volume-5-issue-2/education/optimizing-68000-code)
 
 ## C cross compilation
 
@@ -118,7 +127,8 @@ This section contains resources for cross-compiling Atari ST software from other
 - [hardware-register-listing](https://beyondbrown.mooo.com/post/hardware-register-listing-8.9)
 - [Recovering Atari ST ASIC designs](https://www.chzsoft.de/asic-web)
 
-## Tools
+## Software tools
+
 - [Compiler Explorer](https://godbolt.org)
   - Handy tool to see live compiler output asembly. Supports M68K GCC compilers and M68K assembly.
 - [Compiler Explorer (ggn version)](https://brownbot.mooo.com)
@@ -127,19 +137,33 @@ This section contains resources for cross-compiling Atari ST software from other
 - [CycleSpitter](https://github.com/slippyex/cycleSpitter)
   - A cycle-accurate scanline splitter tool for Atari ST fullscreen (sync) programming.
 
-## Game Development Libraries and tools
+## Game development libraries and tools
+
 - [Agtools - Game prototyping system for Atari ST/e](https://bitbucket.org/d_m_l/agtools/src/master)
 - [ReservoirGods/GODLIB](https://github.com/ReservoirGods/GODLIB)
   - An extensive C library by Resevoir Gods that provides many features that can be useful for game development.
 - [MapEdit](https://ptonthat.fr/mapedit)
   - Map editor dedicated dedicated for games development (2/16/256 colors or true colors).
 - [PS2M](https://ptonthat.fr/p2sm)
-  - Means « Pixels to Sprites & Masks »: image tool dedicated for games development (2/4/16/256 colors sprites). 
+  - Means « Pixels to Sprites & Masks »: image tool dedicated for games development (2/4/16/256 colors sprites).
+- [half-sprite](https://github.com/ggnkua/half-sprite)
+  - Sprite generator for the Atari ST and compatibles.
 
-## Technical background information for specific games
-- [Turrican II](https://codetapper.com/atari-st/st-games/st-turrican-2)
-- [Anarchy](https://codetapper.com/atari-st/st-games/st-anarchy)
-- [Encounter](https://blog.defence-force.org/index.php?page=articles&ref=ART88)
+## Music composition tools
+
+- [MaxYMiser](https://www.preromanbritain.com/maxymiser)
+- [Arkos Tracker](https://www.julien-nevo.com/arkostracker)
+
+## Source code collections
+
+- [Atari ST source code repository](https://github.com/ggnkua/Atari_ST_Sources)
+  - A large repository of Atari ST (and family) source code.
+
+## OS ROMs
+
+- [EmuTOS](https://emutos.sourceforge.io)
+  - EmuTOS is a free OS similar to TOS, which powered the Atari ST and its successors between 1985 and 1994.
+- [TOS Images Collection](https://avtandil33.pythonanywhere.com/tose) 
 
 ## Hardware tools
 
@@ -155,11 +179,11 @@ This section contains resources for cross-compiling Atari ST software from other
 - [Suska](http://experiment-s.de/en)
 - [Atari STE MiSTery core for the Tang Nano FPGAs](https://github.com/MiSTle-Dev/MiSTeryNano)
 
-## OS ROMs
+## Technical background information for specific games
 
-- [EmuTOS](https://emutos.sourceforge.io)
-  - EmuTOS is a free OS similar to TOS, which powered the Atari ST and its successors between 1985 and 1994.
-- [TOS Images Collection](https://avtandil33.pythonanywhere.com/tose) 
+- [Turrican II](https://codetapper.com/atari-st/st-games/st-turrican-2)
+- [Anarchy](https://codetapper.com/atari-st/st-games/st-anarchy)
+- [Encounter](https://blog.defence-force.org/index.php?page=articles&ref=ART88)
 
 ## Other link aggregation sources
 
