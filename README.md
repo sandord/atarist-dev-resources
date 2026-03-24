@@ -77,29 +77,6 @@ C is the primary programming language used for professional Atari ST development
   - Explains how to implement object-oriented programming concepts in C.
   - The references at the bottom of the page are also very useful.
 
-## Assembly Programming
-
-- [68000 assembly tutorials for Atari ST by perihelion of poSTmortem](https://github.com/nguillaumin/perihelion-m68k-tutorials)
-- [RMAC](https://rmac.is-slick.com)
-  - A great, modern assembler for 68k based on the old Madmac assembler by Atari.
-- [VASM](http://sun.hasenbraten.de/vasm)
-- [Devpac 3 Manual](https://info-coach.fr/atari/software/_development/Devpac_v3_Manual_txt.pdf)
-- [Bugaboo usage](http://beyondbrown.d-bug.me/post/bugaboo)
-  - Some very interesting and useful Bugaboo debugger tips and tricks.
-- M68000 Programmer's Reference Manual
-  - [Original Motorola Version (PDF)](https://m680x0.github.io/ref/M68000PM_AD_Rev_1_Programmers_Reference_Manual_1992.pdf) ([HTML](https://m680x0.github.io/ref/M68000PM_AD_Rev_1_Programmers_Reference_Manual_1992.html))
-    - [Integer instructions](https://m680x0.github.io/ref/integer-instructions.html)
-    - [Supervisor instructions](https://m680x0.github.io/ref/supervisor-instructions.html)
-  - [NPX version (PDF)](https://www.nxp.com/docs/en/reference-manual/M68000PRM.pdf)
-
-## Assembly-level code optimization
-
-- [Cycle Times](https://mrjester.hapisan.com/04_MC68/CycleTimes.htm)
-  - A handy click-through table to find CPU cycle times.
-- [Cycle counting in the Atari ST](https://pasti.fxatari.com/68kdocs/AtariSTCycleCounting.html)
-- [Yet Another Cycle Hunting Table](https://github.com/danorf69/YACHT/blob/main/Yacht.txt)
-- [Optimizing 68000 code](https://st-news.com/issues/st-news-volume-5-issue-2/education/optimizing-68000-code)
-
 ## C cross compilation
 
 This section contains resources for cross-compiling Atari ST software from other platforms. Developing on the Atari ST itself is often limited by its hardware capabilities and with cross-compilation, you can leverage more powerful development environments.
@@ -114,10 +91,33 @@ This section contains resources for cross-compiling Atari ST software from other
 - [GCC online documentation](https://gcc.gnu.org/onlinedocs)
 - [GNU Binutils User Guide](sourceware.org/binutils/docs/as/index.html)
 
-## Cross development
+## Assemblers
 
+- [RMAC](https://rmac.is-slick.com)
+  - A great, modern assembler for 68k based on the old Madmac assembler by Atari.
+- [VASM](http://sun.hasenbraten.de/vasm)
+
+## Assembly programming
+
+- [68000 assembly tutorials for Atari ST by perihelion of poSTmortem](https://github.com/nguillaumin/perihelion-m68k-tutorials)
+- [Devpac 3 Manual](https://info-coach.fr/atari/software/_development/Devpac_v3_Manual_txt.pdf)
+- [Bugaboo usage](http://beyondbrown.d-bug.me/post/bugaboo)
+  - Some very interesting and useful Bugaboo debugger tips and tricks.
+- M68000 Programmer's Reference Manual
+  - [Original Motorola Version (PDF)](https://m680x0.github.io/ref/M68000PM_AD_Rev_1_Programmers_Reference_Manual_1992.pdf) ([HTML](https://m680x0.github.io/ref/M68000PM_AD_Rev_1_Programmers_Reference_Manual_1992.html))
+    - [Integer instructions](https://m680x0.github.io/ref/integer-instructions.html)
+    - [Supervisor instructions](https://m680x0.github.io/ref/supervisor-instructions.html)
+  - [NPX version (PDF)](https://www.nxp.com/docs/en/reference-manual/M68000PRM.pdf)
 - [autohatari](https://github.com/Gunstick/autohatari)
   - A fast turnaround development tool for hatari/linux and VASM.
+
+## Assembly-level code optimization
+
+- [Cycle Times](https://mrjester.hapisan.com/04_MC68/CycleTimes.htm)
+  - A handy click-through table to find CPU cycle times.
+- [Cycle counting in the Atari ST](https://pasti.fxatari.com/68kdocs/AtariSTCycleCounting.html)
+- [Yet Another Cycle Hunting Table](https://github.com/danorf69/YACHT/blob/main/Yacht.txt)
+- [Optimizing 68000 code](https://st-news.com/issues/st-news-volume-5-issue-2/education/optimizing-68000-code)
 
 ## Hardware intrinsics
 
