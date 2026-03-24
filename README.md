@@ -27,7 +27,6 @@ A collection of resources for developing software for the 16/32 bit Atari series
   - Atari ST ROM fully commented BIOS/XBIOS ROM listing.
 - [Free eBooks](http://ebook.pixas.de/index.php?frontpage)
   - Written in French, German, English, or Dutch.
-- [Atari Document Archive](https://docs.dev-docs.org)
 
 ## Blogs, wikis, articles and other resources
 
@@ -47,7 +46,7 @@ A collection of resources for developing software for the 16/32 bit Atari series
 - [GFABASIC](https://discord.gg/AYEwQY3JcA)
 - [SidecarTridge](https://discord.com/invite/u73QP9MEYC)
 
-## Emulators/Virtual machines
+## Emulators and virtual machines
 
 - [Hatari](https://www.hatari-emu.org)
   - [Hatari User manual](https://www.hatari-emu.org/doc/manual.html)
@@ -172,7 +171,7 @@ This section contains resources for cross-compiling Atari ST software from other
 - [UltraDev](https://www.ultradevtools.de/index.html)
   - ultraDev is a FGPA-based development cartridge for Atari computers.
 
-## FPGA related
+## FPGA
 
 - [zeST](https://zest.sector1.fr)
 - [MiSTer](https://mister-devel.github.io/MkDocs_MiSTer)
