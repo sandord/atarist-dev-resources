@@ -171,6 +171,8 @@ This section contains resources for cross-compiling Atari ST software from other
   - The Lightning ST is a pcb with two USB 1.1 compatible ports, an IDE interface and an adressdecoder for TOS2.06.
 - [UltraDev](https://www.ultradevtools.de/index.html)
   - ultraDev is a FGPA-based development cartridge for Atari computers.
+- [16-32bit.eu Shop](https://www.16-32bit.eu)
+  - Various hardware upgrades for the Atari ST and related machines.
 
 ## FPGA
 
