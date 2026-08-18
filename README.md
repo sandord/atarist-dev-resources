@@ -90,6 +90,8 @@ This section contains resources for cross-compiling Atari ST software from other
 
 ## Assemblers
 
+- [rg-asm](https://rg.atari.org/tools/rg-asm)
+  - The latest and greatest assembler by Reservoir Gods that is compatible with nearly every dialect out there.
 - [RMAC](https://rmac.is-slick.com)
   - A great, modern assembler for 68k based on the old Madmac assembler by Atari.
 - [VASM](http://sun.hasenbraten.de/vasm)
